@@ -14,7 +14,7 @@ A modern, responsive authentication component built with Next.js and CSS Modules
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+[git clone https://github.com/pamaljayasinghe/Web-Site-Login-and-Signup-Pages-Next.js.git]
 ```
 
 2. Install dependencies:
