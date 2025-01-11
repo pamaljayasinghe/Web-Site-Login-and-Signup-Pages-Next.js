@@ -52,6 +52,4 @@ export default function Page() {
 
 MIT
 
-## Author
 
-[Your Name]
